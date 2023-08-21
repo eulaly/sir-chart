@@ -1,0 +1,1001 @@
+id,functional_area,det,date,status,title
+1,Physical,Det 8,10/8/2022,Closed,eu tincidunt in leo
+2,Personnel,Det 7,10/30/2018,Closed,lectus in quam fringilla rhoncus mauris
+3,Physical,AFSPC,1/3/2018,Active,vel lectus in quam fringilla rhoncus
+4,Physical,Det 1,10/11/2018,Closed,eu felis fusce posuere felis
+5,Physical,AFGSC,11/8/2019,Closed,arcu libero rutrum ac
+6,Information,ACC,4/22/2021,Closed,orci nullam molestie nibh in
+7,Cyber,Det 4,10/29/2021,Closed,rutrum nulla nunc purus phasellus
+8,Physical,AFGSC,1/9/2019,Closed,sed vel enim sit amet
+9,Information,Det 1,8/13/2018,Active,nam dui proin leo odio porttitor
+10,Cyber,Det 4,9/2/2018,Closed,massa tempor convallis nulla neque libero
+11,Physical,Det 4,11/15/2020,Closed,aliquam erat volutpat in congue
+12,Personnel,AFSPC,10/20/2020,Active,ultrices aliquet maecenas leo odio
+13,Personnel,AFMC,5/1/2020,Closed,integer ac neque duis bibendum
+14,Cyber,USAFE,7/10/2022,Closed,turpis enim blandit mi in porttitor
+15,Personnel,Det 9,5/24/2019,Active,ante ipsum primis in
+16,Information,USAFE,4/10/2019,Closed,bibendum morbi non quam nec dui
+17,Physical,Det 6,9/3/2021,Active,at feugiat non pretium quis lectus
+18,Information,Det 6,3/4/2019,Active,sit amet nunc viverra dapibus nulla
+19,Information,ACC,5/13/2020,Active,viverra diam vitae quam
+20,Physical,Det 7,12/7/2021,Closed,varius nulla facilisi cras
+21,Personnel,Det 8,3/13/2021,Closed,mauris non ligula pellentesque ultrices phasellus
+22,Cyber,Det 9,4/1/2020,Closed,nunc proin at turpis
+23,Physical,PACAF,11/13/2019,Closed,sociis natoque penatibus et
+24,Physical,PACAF,6/11/2018,Active,interdum mauris ullamcorper purus sit amet
+25,Cyber,AMC,6/24/2020,Closed,eget congue eget semper rutrum nulla
+26,Physical,Det 3,1/20/2019,Active,rhoncus sed vestibulum sit
+27,Personnel,Det 8,3/15/2021,Active,praesent blandit lacinia erat
+28,Cyber,Det 9,9/11/2019,Active,dapibus at diam nam tristique
+29,Information,Det 4,7/19/2022,Active,donec odio justo sollicitudin ut
+30,Cyber,ACC,3/3/2022,Active,aliquet maecenas leo odio
+31,Information,AFSPC,2/25/2020,Closed,massa tempor convallis nulla neque
+32,Personnel,Det 7,10/17/2021,Active,dolor sit amet consectetuer adipiscing elit
+33,Information,USAFE,5/4/2019,Closed,nibh in quis justo maecenas rhoncus
+34,Information,Det 1,8/30/2022,Active,aliquam augue quam sollicitudin vitae consectetuer
+35,Physical,Det 8,12/8/2020,Active,lobortis est phasellus sit
+36,Personnel,Det 2,9/28/2021,Active,ut ultrices vel augue vestibulum ante
+37,Cyber,AFSPC,8/30/2020,Closed,duis ac nibh fusce lacus
+38,Physical,Det 11,9/20/2019,Active,justo lacinia eget tincidunt eget
+39,Personnel,PACAF,5/3/2020,Closed,dignissim vestibulum vestibulum ante ipsum primis
+40,Information,Det 8,4/3/2020,Closed,faucibus accumsan odio curabitur convallis duis
+41,Cyber,Det 11,8/12/2019,Closed,in imperdiet et commodo vulputate justo
+42,Physical,Det 1,11/17/2022,Closed,fusce congue diam id ornare
+43,Cyber,AFMC,1/10/2020,Closed,sed augue aliquam erat
+44,Physical,AFSOC,8/6/2021,Closed,congue diam id ornare imperdiet sapien
+45,Information,Det 2,11/19/2019,Active,justo pellentesque viverra pede
+46,Physical,Det 1,10/30/2018,Active,vel pede morbi porttitor lorem id
+47,Cyber,Det 11,8/11/2022,Active,dis parturient montes nascetur ridiculus
+48,Physical,Det 3,3/10/2021,Active,et eros vestibulum ac est
+49,Information,AFSPC,7/19/2018,Closed,tortor risus dapibus augue
+50,Physical,Det 5,12/16/2020,Active,ac neque duis bibendum
+51,Cyber,AFMC,3/6/2018,Active,nulla sed accumsan felis ut
+52,Information,AFSOC,9/22/2019,Active,quis lectus suspendisse potenti
+53,Physical,Det 4,3/10/2018,Active,rutrum neque aenean auctor gravida sem
+54,Personnel,AMC,9/22/2019,Closed,ultrices phasellus id sapien in sapien
+55,Physical,ACC,3/4/2022,Active,pellentesque at nulla suspendisse potenti
+56,Cyber,AFMC,2/15/2020,Closed,convallis duis consequat dui nec
+57,Information,Det 6,3/7/2022,Closed,aenean sit amet justo morbi
+58,Cyber,Det 6,2/27/2021,Active,semper interdum mauris ullamcorper
+59,Information,AFMC,5/16/2020,Closed,dui maecenas tristique est et
+60,Physical,USAFE,3/23/2020,Closed,cursus urna ut tellus nulla ut
+61,Physical,AFSOC,6/21/2020,Active,scelerisque quam turpis adipiscing lorem vitae
+62,Physical,Det 2,8/7/2020,Active,amet eleifend pede libero quis
+63,Physical,Det 8,6/20/2020,Closed,felis sed lacus morbi
+64,Personnel,Det 7,5/19/2019,Closed,rhoncus sed vestibulum sit amet
+65,Information,AFMC,8/24/2022,Closed,nonummy integer non velit donec
+66,Information,Det 7,9/29/2020,Active,vel sem sed sagittis
+67,Physical,AFSOC,3/6/2020,Active,maecenas ut massa quis augue luctus
+68,Cyber,PACAF,12/30/2020,Closed,elementum in hac habitasse platea dictumst
+69,Physical,Det 5,5/24/2022,Closed,ante vestibulum ante ipsum
+70,Personnel,AFGSC,2/7/2021,Closed,in sapien iaculis congue vivamus
+71,Cyber,Det 8,7/30/2021,Closed,maecenas tristique est et tempus semper
+72,Cyber,AFSPC,10/1/2019,Active,id turpis integer aliquet massa id
+73,Personnel,AFSOC,12/6/2020,Active,amet eros suspendisse accumsan tortor
+74,Cyber,Det 11,9/28/2020,Active,cubilia curae nulla dapibus
+75,Cyber,Det 9,5/6/2022,Active,turpis nec euismod scelerisque
+76,Cyber,Det 2,9/8/2022,Closed,potenti nullam porttitor lacus at
+77,Physical,Det 11,2/7/2020,Active,est et tempus semper est quam
+78,Physical,AMC,1/13/2019,Closed,convallis nunc proin at turpis
+79,Cyber,Det 8,8/1/2022,Closed,hac habitasse platea dictumst
+80,Physical,PACAF,1/11/2023,Active,lobortis convallis tortor risus dapibus
+81,Personnel,Det 6,11/13/2020,Closed,ipsum primis in faucibus orci
+82,Cyber,AFSOC,12/22/2021,Closed,tincidunt ante vel ipsum praesent blandit
+83,Physical,AFMC,7/9/2020,Closed,luctus et ultrices posuere
+84,Information,Det 6,3/27/2022,Closed,leo maecenas pulvinar lobortis
+85,Cyber,AMC,3/15/2018,Active,gravida sem praesent id
+86,Information,AFSPC,12/15/2020,Active,id pretium iaculis diam
+87,Personnel,AFMC,10/23/2022,Active,commodo vulputate justo in blandit
+88,Cyber,Det 3,2/24/2023,Closed,orci luctus et ultrices
+89,Cyber,Det 4,8/18/2021,Active,ornare consequat lectus in
+90,Cyber,Det 2,8/19/2018,Closed,erat quisque erat eros
+91,Physical,Det 11,1/16/2020,Closed,blandit lacinia erat vestibulum
+92,Physical,PACAF,7/1/2019,Active,magna vulputate luctus cum sociis
+93,Cyber,AMC,5/29/2019,Closed,posuere metus vitae ipsum
+94,Information,USAFE,4/25/2021,Active,pulvinar lobortis est phasellus
+95,Personnel,AFMC,3/25/2020,Active,feugiat et eros vestibulum ac est
+96,Information,AMC,5/23/2020,Closed,elementum eu interdum eu
+97,Personnel,Det 7,9/16/2020,Closed,quam pede lobortis ligula sit
+98,Physical,Det 11,9/8/2022,Active,mi pede malesuada in
+99,Personnel,PACAF,1/20/2018,Active,lorem quisque ut erat
+100,Information,AFGSC,6/10/2021,Active,aenean fermentum donec ut mauris
+101,Physical,Det 2,3/5/2019,Active,justo eu massa donec dapibus
+102,Physical,Det 1,11/30/2018,Closed,ridiculus mus vivamus vestibulum sagittis sapien
+103,Physical,Det 1,3/30/2022,Closed,nec molestie sed justo pellentesque viverra
+104,Physical,Det 8,3/28/2019,Active,tortor risus dapibus augue
+105,Information,Det 7,11/2/2021,Active,ut nulla sed accumsan felis
+106,Personnel,Det 4,3/2/2018,Closed,a libero nam dui proin leo
+107,Personnel,AFMC,6/22/2018,Active,sapien arcu sed augue aliquam
+108,Personnel,Det 4,11/15/2022,Active,cum sociis natoque penatibus et
+109,Cyber,Det 11,10/10/2018,Closed,bibendum imperdiet nullam orci pede
+110,Personnel,Det 1,3/17/2021,Closed,elit ac nulla sed
+111,Personnel,Det 1,2/14/2021,Active,in sagittis dui vel nisl
+112,Physical,Det 7,8/13/2020,Closed,ut massa volutpat convallis morbi odio
+113,Information,Det 11,2/2/2020,Active,aenean lectus pellentesque eget
+114,Information,Det 5,10/28/2021,Closed,ac consequat metus sapien
+115,Cyber,USAFE,2/23/2019,Active,nibh quisque id justo
+116,Physical,AFGSC,2/3/2020,Active,velit id pretium iaculis
+117,Cyber,AFMC,10/1/2018,Active,enim in tempor turpis
+118,Personnel,ACC,3/19/2020,Active,lacinia eget tincidunt eget tempus vel
+119,Information,ACC,11/21/2021,Closed,sit amet eleifend pede
+120,Physical,Det 2,2/14/2019,Active,felis fusce posuere felis
+121,Cyber,Det 1,1/26/2022,Active,congue diam id ornare
+122,Physical,Det 3,5/22/2022,Closed,sapien iaculis congue vivamus metus arcu
+123,Cyber,Det 9,12/4/2021,Closed,in ante vestibulum ante ipsum
+124,Information,USAFE,4/1/2020,Active,duis mattis egestas metus
+125,Physical,Det 2,3/7/2019,Active,morbi a ipsum integer a nibh
+126,Physical,ACC,4/4/2022,Closed,nulla ut erat id
+127,Information,ACC,4/13/2018,Closed,vehicula condimentum curabitur in libero
+128,Cyber,Det 2,7/2/2021,Active,tincidunt lacus at velit vivamus vel
+129,Personnel,AMC,3/31/2018,Closed,sodales sed tincidunt eu felis fusce
+130,Physical,Det 9,11/23/2019,Active,aliquet pulvinar sed nisl nunc rhoncus
+131,Information,Det 5,10/29/2020,Active,velit donec diam neque
+132,Cyber,AFMC,6/7/2021,Active,mauris vulputate elementum nullam varius nulla
+133,Cyber,AFGSC,12/29/2018,Closed,nisi venenatis tristique fusce congue diam
+134,Cyber,ACC,6/10/2018,Closed,a ipsum integer a
+135,Information,AMC,10/13/2018,Closed,vivamus metus arcu adipiscing molestie hendrerit
+136,Physical,Det 3,9/15/2018,Closed,vel lectus in quam fringilla
+137,Information,USAFE,3/28/2021,Active,ligula pellentesque ultrices phasellus id sapien
+138,Physical,Det 11,1/7/2018,Closed,in leo maecenas pulvinar lobortis
+139,Physical,Det 1,9/10/2022,Active,lectus aliquam sit amet diam in
+140,Personnel,AFMC,12/2/2019,Closed,blandit non interdum in
+141,Cyber,AFMC,3/31/2021,Closed,sit amet nulla quisque arcu
+142,Personnel,Det 4,3/1/2022,Closed,lacus at turpis donec posuere metus
+143,Information,AFMC,5/21/2020,Active,arcu adipiscing molestie hendrerit at vulputate
+144,Physical,Det 3,11/22/2018,Active,quis odio consequat varius
+145,Personnel,Det 8,9/24/2021,Closed,velit vivamus vel nulla eget
+146,Information,Det 1,10/18/2020,Closed,ac neque duis bibendum morbi non
+147,Cyber,Det 8,6/27/2018,Active,quis tortor id nulla ultrices
+148,Personnel,Det 3,7/15/2021,Active,accumsan tellus nisi eu orci
+149,Cyber,AFGSC,12/6/2022,Active,mollis molestie lorem quisque ut erat
+150,Personnel,Det 4,2/2/2021,Active,ipsum aliquam non mauris
+151,Information,Det 3,9/8/2022,Active,tortor duis mattis egestas
+152,Cyber,Det 3,10/11/2019,Closed,orci luctus et ultrices
+153,Information,AFGSC,10/26/2022,Active,at turpis donec posuere metus vitae
+154,Information,Det 6,10/1/2021,Active,amet sem fusce consequat
+155,Personnel,Det 8,3/27/2022,Active,ullamcorper purus sit amet
+156,Cyber,Det 5,10/1/2020,Closed,elementum nullam varius nulla facilisi cras
+157,Cyber,Det 2,11/16/2020,Closed,maecenas pulvinar lobortis est phasellus sit
+158,Physical,Det 2,9/23/2019,Closed,proin at turpis a pede
+159,Information,Det 11,10/13/2022,Closed,ipsum primis in faucibus
+160,Physical,Det 7,4/28/2018,Active,in purus eu magna vulputate luctus
+161,Physical,Det 3,6/29/2021,Closed,faucibus orci luctus et ultrices
+162,Physical,AFSOC,8/12/2019,Closed,semper porta volutpat quam pede lobortis
+163,Cyber,PACAF,1/8/2020,Active,pellentesque eget nunc donec
+164,Personnel,AMC,12/2/2022,Closed,amet justo morbi ut odio
+165,Physical,Det 2,1/1/2023,Active,commodo vulputate justo in blandit
+166,Personnel,Det 8,6/25/2021,Closed,ligula nec sem duis aliquam
+167,Information,AFSPC,3/27/2019,Active,vestibulum quam sapien varius ut blandit
+168,Cyber,Det 6,10/31/2018,Active,quam fringilla rhoncus mauris enim leo
+169,Cyber,AFSOC,7/18/2019,Closed,maecenas ut massa quis augue
+170,Cyber,Det 11,4/23/2022,Active,est lacinia nisi venenatis tristique fusce
+171,Personnel,Det 6,5/11/2019,Active,blandit nam nulla integer pede justo
+172,Information,Det 5,9/16/2022,Active,augue quam sollicitudin vitae consectetuer eget
+173,Information,ACC,6/15/2019,Closed,quam nec dui luctus rutrum
+174,Information,AFMC,2/5/2018,Active,vel nisl duis ac
+175,Physical,Det 6,10/10/2020,Closed,magna ac consequat metus sapien
+176,Physical,Det 3,12/8/2021,Active,nisi at nibh in hac habitasse
+177,Personnel,Det 8,10/24/2018,Closed,scelerisque quam turpis adipiscing lorem
+178,Personnel,AFSPC,4/29/2020,Closed,tincidunt eget tempus vel pede morbi
+179,Physical,Det 5,11/28/2020,Active,pharetra magna ac consequat metus
+180,Cyber,Det 11,8/1/2018,Closed,rutrum nulla tellus in sagittis dui
+181,Information,AFSPC,6/21/2019,Closed,quis augue luctus tincidunt
+182,Personnel,AFSOC,9/5/2019,Closed,eget tincidunt eget tempus vel
+183,Personnel,Det 7,7/19/2021,Closed,blandit non interdum in ante vestibulum
+184,Cyber,AFMC,9/18/2020,Active,rutrum ac lobortis vel dapibus
+185,Cyber,Det 2,8/23/2018,Active,adipiscing molestie hendrerit at vulputate vitae
+186,Information,Det 2,3/8/2018,Closed,pellentesque ultrices mattis odio donec vitae
+187,Personnel,AFSOC,12/30/2018,Closed,in ante vestibulum ante ipsum primis
+188,Cyber,Det 8,11/1/2018,Closed,nunc rhoncus dui vel sem sed
+189,Personnel,Det 9,11/14/2019,Active,ultrices phasellus id sapien in sapien
+190,Information,Det 3,1/5/2019,Active,ridiculus mus vivamus vestibulum sagittis sapien
+191,Information,Det 1,7/8/2021,Closed,nulla pede ullamcorper augue a suscipit
+192,Cyber,ACC,7/24/2018,Closed,at feugiat non pretium quis lectus
+193,Physical,AFSPC,10/28/2022,Closed,ridiculus mus vivamus vestibulum sagittis
+194,Information,AFSOC,1/24/2022,Active,pellentesque quisque porta volutpat erat
+195,Physical,Det 5,12/31/2021,Closed,vivamus tortor duis mattis egestas
+196,Information,AMC,8/1/2021,Active,semper sapien a libero nam
+197,Cyber,AFGSC,10/19/2018,Closed,magna ac consequat metus sapien ut
+198,Physical,Det 8,10/31/2020,Active,nullam varius nulla facilisi
+199,Cyber,AFSOC,5/10/2020,Active,massa id lobortis convallis
+200,Information,AFSPC,1/2/2020,Active,habitasse platea dictumst etiam faucibus cursus
+201,Cyber,Det 8,7/26/2018,Active,ac enim in tempor turpis nec
+202,Physical,USAFE,5/30/2021,Closed,sed augue aliquam erat volutpat in
+203,Personnel,AFMC,12/27/2021,Active,at nunc commodo placerat praesent blandit
+204,Cyber,Det 5,7/18/2021,Active,ipsum primis in faucibus orci luctus
+205,Cyber,AFGSC,7/14/2021,Closed,lacus at velit vivamus
+206,Information,USAFE,1/3/2019,Active,nunc purus phasellus in felis
+207,Information,AMC,3/11/2018,Active,luctus rutrum nulla tellus
+208,Physical,Det 9,7/17/2020,Closed,a feugiat et eros vestibulum ac
+209,Personnel,Det 2,4/13/2021,Active,tortor id nulla ultrices aliquet maecenas
+210,Physical,Det 3,7/13/2021,Closed,eget nunc donec quis orci
+211,Personnel,PACAF,2/16/2022,Active,et ultrices posuere cubilia curae donec
+212,Cyber,AFSOC,3/10/2019,Closed,turpis elementum ligula vehicula
+213,Cyber,Det 3,7/29/2022,Closed,ultrices posuere cubilia curae
+214,Physical,AMC,11/23/2020,Closed,pretium quis lectus suspendisse potenti in
+215,Personnel,Det 5,4/4/2020,Closed,justo lacinia eget tincidunt
+216,Cyber,AFSOC,12/12/2020,Active,donec posuere metus vitae ipsum
+217,Information,PACAF,1/25/2021,Closed,nulla sed vel enim sit
+218,Personnel,ACC,7/25/2021,Active,id luctus nec molestie
+219,Information,Det 7,7/31/2018,Active,in hac habitasse platea dictumst maecenas
+220,Physical,USAFE,7/7/2019,Active,quis justo maecenas rhoncus aliquam lacus
+221,Cyber,Det 4,7/17/2021,Closed,vulputate nonummy maecenas tincidunt lacus
+222,Cyber,Det 1,3/9/2018,Active,lectus in est risus
+223,Information,Det 11,8/11/2019,Closed,erat id mauris vulputate
+224,Information,Det 3,7/12/2021,Active,donec semper sapien a libero
+225,Cyber,AFSPC,7/7/2020,Active,laoreet ut rhoncus aliquet
+226,Cyber,Det 7,8/13/2018,Active,lacus at velit vivamus vel nulla
+227,Cyber,Det 3,1/10/2018,Closed,interdum eu tincidunt in leo
+228,Information,AFSPC,2/5/2018,Closed,in sagittis dui vel nisl duis
+229,Cyber,AFGSC,10/9/2020,Active,et magnis dis parturient montes nascetur
+230,Personnel,AFSPC,9/2/2020,Closed,ultrices aliquet maecenas leo
+231,Cyber,Det 1,10/30/2019,Closed,interdum venenatis turpis enim blandit
+232,Information,AFGSC,8/17/2020,Active,habitasse platea dictumst etiam
+233,Personnel,Det 4,5/10/2019,Active,lacinia eget tincidunt eget
+234,Cyber,AFSOC,4/29/2020,Closed,vivamus vel nulla eget
+235,Physical,AMC,11/14/2022,Active,amet sem fusce consequat nulla nisl
+236,Cyber,AFSPC,2/2/2019,Active,eget nunc donec quis
+237,Information,Det 8,6/30/2020,Active,curae mauris viverra diam vitae
+238,Physical,AFSOC,7/20/2020,Closed,posuere nonummy integer non
+239,Information,AFSPC,7/17/2018,Active,erat volutpat in congue
+240,Information,Det 9,3/2/2018,Closed,augue quam sollicitudin vitae consectetuer
+241,Cyber,Det 8,6/15/2020,Active,et tempus semper est quam pharetra
+242,Physical,Det 6,3/11/2020,Closed,sagittis nam congue risus semper
+243,Personnel,Det 1,2/22/2022,Active,elementum ligula vehicula consequat morbi
+244,Physical,AFGSC,8/25/2019,Active,amet consectetuer adipiscing elit proin
+245,Information,Det 6,12/8/2018,Closed,id lobortis convallis tortor risus
+246,Information,USAFE,7/4/2022,Closed,rutrum nulla nunc purus
+247,Cyber,Det 7,10/9/2021,Closed,ridiculus mus vivamus vestibulum sagittis sapien
+248,Information,Det 2,8/17/2021,Active,sit amet eleifend pede libero
+249,Personnel,AFMC,6/1/2021,Closed,neque vestibulum eget vulputate ut ultrices
+250,Personnel,Det 7,8/19/2018,Active,dignissim vestibulum vestibulum ante ipsum
+251,Personnel,Det 11,10/28/2019,Active,quisque ut erat curabitur gravida
+252,Information,Det 8,7/2/2020,Active,turpis sed ante vivamus tortor duis
+253,Physical,ACC,2/28/2019,Active,eros viverra eget congue
+254,Cyber,Det 5,10/8/2022,Closed,porttitor lorem id ligula suspendisse ornare
+255,Information,Det 2,5/25/2019,Closed,vestibulum ante ipsum primis
+256,Cyber,USAFE,11/21/2019,Active,odio condimentum id luctus nec molestie
+257,Cyber,Det 9,12/3/2020,Active,eget vulputate ut ultrices
+258,Physical,Det 2,2/1/2018,Active,nibh in hac habitasse platea dictumst
+259,Cyber,AFGSC,5/2/2019,Active,interdum in ante vestibulum
+260,Personnel,PACAF,8/7/2021,Closed,rutrum nulla nunc purus phasellus in
+261,Physical,PACAF,2/8/2021,Closed,quam sapien varius ut blandit non
+262,Information,Det 11,1/22/2020,Closed,eget vulputate ut ultrices vel
+263,Information,Det 5,2/8/2018,Active,arcu libero rutrum ac lobortis
+264,Cyber,ACC,9/3/2018,Active,donec pharetra magna vestibulum aliquet ultrices
+265,Personnel,Det 3,12/22/2022,Active,id justo sit amet sapien dignissim
+266,Personnel,PACAF,7/26/2021,Closed,pellentesque at nulla suspendisse
+267,Personnel,ACC,6/8/2022,Closed,non lectus aliquam sit amet
+268,Physical,Det 2,7/17/2022,Closed,id sapien in sapien iaculis congue
+269,Cyber,ACC,7/5/2021,Closed,sociis natoque penatibus et
+270,Information,AFGSC,1/6/2022,Closed,porta volutpat quam pede lobortis ligula
+271,Physical,PACAF,11/7/2020,Active,donec diam neque vestibulum eget vulputate
+272,Cyber,AFSPC,7/28/2021,Closed,in ante vestibulum ante
+273,Personnel,Det 9,3/30/2021,Active,sapien dignissim vestibulum vestibulum ante
+274,Personnel,Det 9,10/11/2020,Closed,luctus et ultrices posuere cubilia
+275,Cyber,AFMC,2/4/2019,Closed,dapibus duis at velit eu
+276,Cyber,Det 7,1/9/2018,Closed,molestie sed justo pellentesque viverra
+277,Cyber,Det 6,11/10/2021,Active,congue risus semper porta
+278,Personnel,USAFE,7/3/2018,Closed,nullam varius nulla facilisi cras
+279,Physical,PACAF,6/17/2018,Closed,nulla quisque arcu libero rutrum
+280,Personnel,USAFE,12/28/2018,Closed,morbi odio odio elementum eu
+281,Personnel,Det 8,6/13/2020,Active,in ante vestibulum ante ipsum
+282,Cyber,Det 6,8/18/2018,Active,etiam faucibus cursus urna ut tellus
+283,Information,Det 3,8/29/2022,Closed,hendrerit at vulputate vitae
+284,Physical,Det 8,1/31/2020,Active,commodo placerat praesent blandit
+285,Information,Det 1,3/16/2021,Closed,dui luctus rutrum nulla tellus in
+286,Cyber,Det 8,7/15/2019,Closed,tempus sit amet sem
+287,Physical,AMC,10/28/2022,Active,habitasse platea dictumst aliquam augue
+288,Physical,Det 2,12/26/2022,Closed,faucibus orci luctus et ultrices
+289,Personnel,Det 4,12/11/2018,Active,non velit nec nisi vulputate
+290,Personnel,Det 11,11/23/2022,Active,ultricies eu nibh quisque id
+291,Cyber,Det 1,7/23/2022,Closed,orci vehicula condimentum curabitur in
+292,Physical,Det 8,8/5/2020,Active,mauris viverra diam vitae quam suspendisse
+293,Information,Det 8,6/27/2020,Closed,felis sed interdum venenatis
+294,Physical,Det 2,8/22/2022,Active,pellentesque volutpat dui maecenas
+295,Cyber,AFSPC,3/20/2021,Active,in faucibus orci luctus et ultrices
+296,Personnel,ACC,4/13/2022,Closed,curabitur gravida nisi at nibh in
+297,Information,AFSPC,3/4/2022,Closed,nisl nunc rhoncus dui vel
+298,Cyber,AFSOC,1/8/2023,Active,lorem integer tincidunt ante vel ipsum
+299,Cyber,AFMC,12/6/2022,Active,vitae mattis nibh ligula nec
+300,Cyber,Det 1,2/23/2020,Active,porta volutpat quam pede lobortis
+301,Personnel,USAFE,11/12/2019,Closed,sapien dignissim vestibulum vestibulum
+302,Information,Det 6,5/18/2021,Closed,dictumst morbi vestibulum velit
+303,Cyber,ACC,11/29/2018,Active,id nulla ultrices aliquet maecenas leo
+304,Physical,Det 4,6/1/2021,Closed,sagittis nam congue risus
+305,Physical,Det 3,10/13/2018,Closed,pede morbi porttitor lorem
+306,Physical,Det 7,8/11/2018,Closed,ipsum dolor sit amet
+307,Cyber,AMC,4/26/2021,Closed,augue luctus tincidunt nulla
+308,Cyber,Det 8,11/9/2020,Closed,at diam nam tristique tortor
+309,Information,Det 6,3/25/2020,Active,sem fusce consequat nulla nisl nunc
+310,Cyber,AFGSC,5/18/2021,Closed,cum sociis natoque penatibus et magnis
+311,Physical,AFMC,4/21/2021,Active,sodales sed tincidunt eu felis
+312,Personnel,Det 11,3/4/2021,Active,id turpis integer aliquet massa id
+313,Information,Det 2,5/10/2019,Active,eget elit sodales scelerisque mauris sit
+314,Information,PACAF,1/1/2023,Active,lectus in quam fringilla rhoncus mauris
+315,Information,Det 2,1/19/2019,Active,varius integer ac leo pellentesque ultrices
+316,Physical,Det 8,2/10/2023,Active,pellentesque quisque porta volutpat
+317,Information,Det 2,7/29/2022,Closed,ante ipsum primis in
+318,Physical,ACC,4/11/2019,Active,dolor sit amet consectetuer adipiscing
+319,Physical,Det 2,6/7/2018,Closed,purus phasellus in felis donec
+320,Physical,ACC,1/24/2021,Closed,purus sit amet nulla
+321,Information,Det 5,1/23/2018,Closed,sit amet nunc viverra dapibus
+322,Physical,AFSPC,4/20/2018,Active,cubilia curae nulla dapibus dolor vel
+323,Information,Det 3,3/1/2018,Active,velit nec nisi vulputate nonummy maecenas
+324,Cyber,AFMC,5/21/2021,Closed,in est risus auctor sed tristique
+325,Personnel,Det 6,8/22/2018,Active,blandit nam nulla integer
+326,Personnel,AMC,5/9/2021,Closed,lobortis vel dapibus at diam
+327,Physical,Det 9,9/29/2020,Closed,aliquet pulvinar sed nisl
+328,Information,AFGSC,12/30/2022,Closed,sodales scelerisque mauris sit amet
+329,Personnel,Det 5,1/24/2021,Active,nulla nisl nunc nisl duis
+330,Physical,Det 2,5/5/2021,Closed,turpis a pede posuere nonummy
+331,Cyber,Det 3,12/22/2018,Active,pede justo lacinia eget
+332,Information,Det 6,8/26/2019,Closed,consequat dui nec nisi volutpat eleifend
+333,Cyber,AFSOC,8/15/2018,Active,quis tortor id nulla ultrices
+334,Information,Det 6,1/9/2023,Closed,sapien sapien non mi integer ac
+335,Personnel,Det 4,11/14/2019,Closed,aliquam augue quam sollicitudin vitae consectetuer
+336,Cyber,Det 7,5/20/2018,Active,quis odio consequat varius
+337,Cyber,AFSOC,11/6/2018,Closed,nulla ac enim in tempor
+338,Information,Det 5,1/1/2018,Closed,erat quisque erat eros viverra eget
+339,Personnel,AFSOC,9/15/2019,Active,leo odio porttitor id consequat in
+340,Information,AMC,6/15/2021,Active,vel enim sit amet nunc viverra
+341,Cyber,PACAF,11/21/2022,Closed,erat id mauris vulputate
+342,Personnel,AFSPC,2/27/2023,Active,amet eros suspendisse accumsan tortor quis
+343,Physical,Det 6,4/4/2018,Active,at velit vivamus vel nulla
+344,Information,Det 9,11/26/2019,Closed,adipiscing molestie hendrerit at
+345,Physical,AFGSC,8/4/2020,Closed,vitae nisi nam ultrices libero non
+346,Cyber,AFSPC,9/14/2019,Closed,sem fusce consequat nulla nisl
+347,Cyber,Det 1,6/8/2020,Closed,lorem ipsum dolor sit amet
+348,Information,Det 1,4/28/2022,Closed,luctus tincidunt nulla mollis molestie
+349,Physical,Det 1,12/2/2022,Active,et ultrices posuere cubilia curae mauris
+350,Information,Det 5,2/8/2021,Active,mauris eget massa tempor
+351,Cyber,Det 6,3/18/2018,Closed,gravida sem praesent id massa
+352,Cyber,Det 5,10/22/2019,Closed,eget rutrum at lorem integer
+353,Physical,Det 8,5/3/2022,Closed,et tempus semper est
+354,Cyber,AMC,2/18/2023,Active,posuere cubilia curae mauris viverra diam
+355,Cyber,AFGSC,12/6/2022,Active,adipiscing lorem vitae mattis nibh
+356,Information,Det 9,3/1/2020,Active,tristique fusce congue diam id ornare
+357,Cyber,Det 11,11/11/2020,Closed,curae donec pharetra magna vestibulum
+358,Cyber,Det 1,4/15/2020,Active,justo sit amet sapien dignissim
+359,Personnel,Det 2,8/11/2019,Active,libero nullam sit amet
+360,Physical,AFSPC,4/13/2022,Active,scelerisque mauris sit amet eros
+361,Personnel,Det 5,5/13/2021,Active,ligula suspendisse ornare consequat
+362,Personnel,Det 8,2/28/2020,Closed,nunc viverra dapibus nulla suscipit
+363,Personnel,Det 6,11/26/2020,Closed,pellentesque ultrices phasellus id sapien
+364,Cyber,Det 7,10/28/2018,Active,morbi sem mauris laoreet ut rhoncus
+365,Information,Det 6,8/18/2019,Closed,eu nibh quisque id
+366,Information,AFSOC,8/27/2018,Closed,ut nunc vestibulum ante ipsum
+367,Information,Det 2,9/30/2019,Active,vivamus vel nulla eget eros elementum
+368,Personnel,Det 7,12/27/2018,Active,ante ipsum primis in faucibus
+369,Cyber,Det 4,9/4/2018,Closed,nec dui luctus rutrum
+370,Cyber,Det 11,10/19/2021,Active,amet sapien dignissim vestibulum vestibulum ante
+371,Personnel,Det 9,8/7/2019,Active,sit amet nunc viverra
+372,Personnel,USAFE,4/13/2021,Active,consequat dui nec nisi
+373,Physical,Det 3,6/18/2021,Closed,congue diam id ornare imperdiet
+374,Cyber,AFGSC,12/26/2020,Active,nulla pede ullamcorper augue a
+375,Cyber,AFSOC,9/30/2020,Active,volutpat sapien arcu sed augue
+376,Personnel,Det 5,2/10/2022,Closed,in est risus auctor sed
+377,Physical,ACC,2/17/2023,Closed,pede ac diam cras pellentesque volutpat
+378,Physical,PACAF,9/19/2021,Closed,interdum in ante vestibulum
+379,Personnel,AFGSC,11/23/2019,Active,sed augue aliquam erat
+380,Personnel,Det 4,6/21/2021,Closed,sit amet consectetuer adipiscing elit proin
+381,Personnel,PACAF,1/16/2023,Active,eget semper rutrum nulla nunc
+382,Information,AFSPC,4/12/2018,Active,sed tristique in tempus
+383,Physical,Det 1,8/23/2021,Active,felis fusce posuere felis
+384,Personnel,Det 5,2/13/2019,Active,convallis nulla neque libero convallis eget
+385,Physical,AFMC,7/21/2018,Active,blandit lacinia erat vestibulum sed magna
+386,Cyber,ACC,12/3/2021,Active,ultrices posuere cubilia curae donec
+387,Physical,AFSPC,3/12/2019,Closed,elit ac nulla sed vel enim
+388,Cyber,USAFE,1/16/2019,Active,proin risus praesent lectus vestibulum
+389,Cyber,AFMC,10/25/2020,Closed,phasellus in felis donec
+390,Personnel,AFSOC,12/12/2022,Active,erat nulla tempus vivamus in felis
+391,Physical,AFSPC,4/4/2018,Closed,quis turpis sed ante vivamus tortor
+392,Cyber,Det 9,9/6/2019,Active,lobortis convallis tortor risus dapibus
+393,Personnel,Det 7,11/3/2019,Closed,ut nunc vestibulum ante
+394,Physical,Det 6,3/23/2019,Active,blandit mi in porttitor pede
+395,Personnel,Det 4,6/23/2021,Active,donec vitae nisi nam
+396,Physical,PACAF,5/29/2019,Active,vestibulum ante ipsum primis in
+397,Personnel,Det 1,2/8/2020,Active,aliquet ultrices erat tortor sollicitudin
+398,Information,Det 11,9/10/2018,Closed,in tempus sit amet sem
+399,Personnel,Det 2,8/15/2022,Active,amet nulla quisque arcu
+400,Personnel,AFMC,5/10/2022,Active,accumsan odio curabitur convallis
+401,Cyber,AFMC,6/10/2020,Closed,eu magna vulputate luctus cum sociis
+402,Physical,AFSOC,1/25/2019,Active,a suscipit nulla elit
+403,Physical,Det 4,11/22/2022,Closed,quis turpis eget elit
+404,Physical,ACC,7/19/2018,Active,sit amet nulla quisque arcu libero
+405,Physical,PACAF,12/31/2020,Closed,curae duis faucibus accumsan odio
+406,Personnel,Det 11,2/24/2018,Closed,consectetuer eget rutrum at lorem integer
+407,Personnel,AFMC,10/12/2019,Closed,justo etiam pretium iaculis justo in
+408,Personnel,USAFE,8/31/2018,Active,luctus nec molestie sed justo
+409,Personnel,Det 7,3/16/2022,Closed,vestibulum eget vulputate ut ultrices vel
+410,Cyber,ACC,2/3/2018,Closed,sed augue aliquam erat volutpat in
+411,Physical,Det 2,1/25/2018,Active,mattis nibh ligula nec sem
+412,Information,ACC,12/1/2018,Active,nulla eget eros elementum pellentesque quisque
+413,Cyber,Det 3,6/16/2020,Closed,aenean lectus pellentesque eget
+414,Physical,AFSPC,1/16/2018,Active,nunc commodo placerat praesent blandit nam
+415,Information,Det 1,7/6/2018,Closed,tempus sit amet sem fusce
+416,Physical,ACC,3/29/2018,Active,convallis morbi odio odio
+417,Information,AFGSC,7/29/2022,Active,hac habitasse platea dictumst maecenas
+418,Cyber,AFMC,4/29/2021,Active,ipsum primis in faucibus
+419,Information,AFSPC,1/15/2022,Closed,magnis dis parturient montes
+420,Cyber,AFSPC,5/24/2021,Closed,maecenas leo odio condimentum id luctus
+421,Information,ACC,8/29/2021,Active,in hac habitasse platea dictumst etiam
+422,Information,AMC,2/5/2023,Active,in purus eu magna
+423,Physical,Det 6,9/28/2019,Active,morbi quis tortor id
+424,Physical,Det 3,8/8/2021,Closed,primis in faucibus orci luctus
+425,Personnel,USAFE,6/28/2019,Active,at velit vivamus vel nulla eget
+426,Information,AFSPC,6/1/2022,Active,congue risus semper porta
+427,Personnel,USAFE,2/16/2023,Closed,aliquam lacus morbi quis
+428,Personnel,PACAF,11/17/2022,Closed,nulla integer pede justo lacinia eget
+429,Personnel,AFMC,6/20/2022,Active,etiam faucibus cursus urna ut tellus
+430,Personnel,AFMC,12/18/2021,Closed,ipsum primis in faucibus orci luctus
+431,Information,AFMC,11/15/2018,Active,mauris lacinia sapien quis
+432,Cyber,AMC,7/9/2022,Closed,in lectus pellentesque at nulla
+433,Physical,AFGSC,7/4/2018,Closed,in porttitor pede justo eu
+434,Personnel,ACC,10/3/2018,Active,pharetra magna vestibulum aliquet ultrices
+435,Physical,AFGSC,4/22/2018,Active,luctus et ultrices posuere
+436,Physical,Det 7,1/2/2018,Closed,montes nascetur ridiculus mus
+437,Cyber,Det 3,2/11/2020,Active,convallis eget eleifend luctus ultricies
+438,Personnel,ACC,2/23/2018,Active,enim leo rhoncus sed vestibulum sit
+439,Information,Det 7,3/13/2022,Closed,morbi porttitor lorem id ligula suspendisse
+440,Physical,Det 11,10/27/2020,Closed,libero quis orci nullam molestie
+441,Cyber,Det 6,6/4/2019,Active,vel dapibus at diam nam tristique
+442,Cyber,AFSPC,3/6/2019,Active,hac habitasse platea dictumst etiam
+443,Personnel,Det 9,9/14/2019,Active,sodales scelerisque mauris sit amet
+444,Personnel,ACC,1/4/2023,Active,pede morbi porttitor lorem
+445,Personnel,Det 9,10/10/2022,Active,commodo placerat praesent blandit nam
+446,Physical,Det 4,5/16/2019,Closed,nam tristique tortor eu
+447,Information,Det 9,8/30/2018,Closed,fusce lacus purus aliquet at
+448,Information,AFSOC,12/2/2018,Closed,quis turpis eget elit sodales
+449,Information,Det 9,10/3/2022,Active,in est risus auctor sed
+450,Personnel,AFMC,7/7/2020,Active,sed lacus morbi sem mauris laoreet
+451,Personnel,PACAF,4/9/2019,Active,ultrices posuere cubilia curae donec
+452,Personnel,Det 6,1/28/2022,Closed,eu felis fusce posuere felis sed
+453,Personnel,USAFE,8/11/2020,Active,nulla pede ullamcorper augue a suscipit
+454,Cyber,Det 8,12/14/2020,Active,sapien varius ut blandit non interdum
+455,Cyber,AFGSC,1/20/2020,Closed,quis augue luctus tincidunt nulla mollis
+456,Information,AFSPC,1/13/2018,Closed,cursus vestibulum proin eu
+457,Information,ACC,5/28/2019,Active,sit amet consectetuer adipiscing
+458,Physical,USAFE,2/12/2023,Closed,cras mi pede malesuada in
+459,Information,Det 5,7/7/2019,Closed,curabitur convallis duis consequat
+460,Personnel,AFSPC,12/22/2019,Active,amet consectetuer adipiscing elit
+461,Personnel,Det 2,8/22/2021,Closed,sit amet sem fusce
+462,Information,PACAF,2/3/2022,Closed,sapien dignissim vestibulum vestibulum ante ipsum
+463,Physical,Det 11,9/21/2020,Active,luctus et ultrices posuere cubilia
+464,Physical,AFSOC,8/30/2018,Closed,accumsan felis ut at dolor
+465,Physical,Det 5,4/15/2018,Closed,lobortis est phasellus sit amet
+466,Cyber,AFSOC,8/9/2020,Closed,metus arcu adipiscing molestie hendrerit
+467,Cyber,AMC,6/6/2021,Active,id ornare imperdiet sapien urna pretium
+468,Physical,AMC,1/27/2023,Closed,pretium quis lectus suspendisse potenti
+469,Cyber,Det 3,6/9/2018,Active,eu orci mauris lacinia
+470,Physical,Det 5,7/19/2019,Closed,lacinia eget tincidunt eget tempus vel
+471,Information,Det 2,8/26/2022,Closed,primis in faucibus orci luctus
+472,Information,AFSOC,5/29/2019,Active,luctus rutrum nulla tellus in
+473,Cyber,Det 4,9/20/2022,Closed,in lectus pellentesque at
+474,Cyber,AFGSC,6/3/2019,Closed,nulla elit ac nulla sed
+475,Physical,PACAF,5/18/2018,Active,morbi a ipsum integer a nibh
+476,Information,AFMC,9/13/2021,Active,hendrerit at vulputate vitae nisl
+477,Information,AFGSC,10/2/2022,Active,interdum in ante vestibulum ante
+478,Cyber,Det 7,6/13/2021,Closed,nisi at nibh in
+479,Physical,AFSOC,8/27/2022,Active,at ipsum ac tellus semper
+480,Personnel,USAFE,5/13/2022,Closed,molestie hendrerit at vulputate vitae
+481,Cyber,Det 7,6/8/2018,Closed,potenti cras in purus eu magna
+482,Information,AFMC,8/10/2019,Closed,praesent blandit lacinia erat
+483,Cyber,USAFE,12/13/2021,Closed,arcu libero rutrum ac lobortis vel
+484,Personnel,Det 6,1/9/2021,Closed,potenti cras in purus eu magna
+485,Information,Det 6,3/30/2019,Active,semper porta volutpat quam pede lobortis
+486,Personnel,AMC,5/17/2020,Closed,bibendum imperdiet nullam orci pede venenatis
+487,Information,PACAF,2/14/2019,Active,tristique tortor eu pede
+488,Personnel,Det 8,5/31/2018,Active,tellus in sagittis dui vel
+489,Cyber,Det 1,10/11/2019,Closed,volutpat quam pede lobortis ligula sit
+490,Physical,AFMC,12/22/2021,Active,amet diam in magna bibendum
+491,Information,ACC,6/1/2022,Active,felis ut at dolor quis
+492,Physical,Det 2,2/22/2018,Closed,morbi sem mauris laoreet ut rhoncus
+493,Information,Det 2,11/12/2021,Closed,ut at dolor quis odio consequat
+494,Physical,USAFE,11/15/2018,Closed,massa tempor convallis nulla
+495,Information,Det 6,4/8/2021,Closed,ac enim in tempor turpis nec
+496,Information,AFMC,9/1/2018,Closed,nulla ut erat id
+497,Information,PACAF,11/11/2022,Active,cum sociis natoque penatibus et magnis
+498,Physical,Det 1,2/15/2020,Closed,ullamcorper augue a suscipit nulla
+499,Cyber,PACAF,2/19/2019,Closed,pulvinar lobortis est phasellus sit amet
+500,Information,Det 8,11/11/2020,Active,quam pharetra magna ac
+501,Cyber,Det 4,8/30/2021,Closed,accumsan odio curabitur convallis duis
+502,Personnel,AFSPC,6/5/2022,Active,enim blandit mi in
+503,Cyber,Det 3,11/2/2020,Active,orci nullam molestie nibh
+504,Personnel,AMC,1/22/2018,Active,quisque id justo sit
+505,Cyber,AFSOC,1/23/2019,Active,at velit vivamus vel nulla
+506,Information,Det 2,3/1/2021,Closed,sagittis sapien cum sociis natoque penatibus
+507,Information,Det 9,3/23/2020,Active,metus aenean fermentum donec
+508,Cyber,AFGSC,9/5/2019,Closed,ipsum primis in faucibus orci
+509,Cyber,AMC,5/10/2018,Closed,enim lorem ipsum dolor sit amet
+510,Physical,AMC,9/28/2018,Active,rutrum nulla nunc purus
+511,Information,AFGSC,11/3/2019,Closed,vivamus tortor duis mattis egestas metus
+512,Physical,Det 7,9/5/2022,Closed,vulputate nonummy maecenas tincidunt
+513,Cyber,Det 6,2/15/2022,Closed,amet sapien dignissim vestibulum vestibulum
+514,Information,AFSOC,9/19/2022,Closed,magna at nunc commodo
+515,Personnel,AFMC,11/25/2021,Active,odio cras mi pede malesuada in
+516,Personnel,Det 3,3/10/2022,Active,odio in hac habitasse
+517,Personnel,Det 5,7/21/2021,Active,massa id lobortis convallis tortor
+518,Physical,Det 1,3/23/2020,Closed,rutrum rutrum neque aenean auctor gravida
+519,Physical,Det 11,1/20/2023,Active,erat id mauris vulputate
+520,Personnel,Det 5,3/7/2021,Active,adipiscing lorem vitae mattis nibh
+521,Personnel,Det 11,9/23/2019,Closed,tempus vel pede morbi porttitor lorem
+522,Personnel,Det 11,9/3/2020,Active,in tempor turpis nec euismod
+523,Physical,PACAF,7/19/2022,Closed,facilisi cras non velit nec nisi
+524,Personnel,AMC,3/22/2020,Active,ac nibh fusce lacus
+525,Cyber,AFGSC,10/10/2021,Closed,sed justo pellentesque viverra
+526,Information,Det 1,3/13/2021,Closed,vestibulum velit id pretium iaculis
+527,Cyber,AMC,12/11/2022,Closed,in faucibus orci luctus et ultrices
+528,Personnel,Det 1,5/21/2019,Active,odio odio elementum eu
+529,Physical,USAFE,2/1/2023,Active,praesent blandit nam nulla integer pede
+530,Physical,AMC,2/25/2023,Active,magnis dis parturient montes
+531,Personnel,AMC,4/2/2022,Closed,tortor duis mattis egestas
+532,Personnel,Det 2,5/26/2022,Closed,ut odio cras mi pede
+533,Cyber,ACC,11/17/2019,Closed,primis in faucibus orci luctus et
+534,Information,AFGSC,12/19/2022,Closed,pellentesque ultrices phasellus id sapien in
+535,Cyber,Det 9,1/13/2021,Closed,nulla justo aliquam quis turpis
+536,Cyber,ACC,3/22/2019,Closed,in consequat ut nulla sed accumsan
+537,Information,AFMC,5/10/2022,Active,metus sapien ut nunc vestibulum ante
+538,Physical,AFMC,8/7/2018,Active,justo sollicitudin ut suscipit a
+539,Physical,Det 3,2/19/2023,Closed,curabitur gravida nisi at
+540,Physical,AFGSC,1/18/2022,Active,in purus eu magna
+541,Information,Det 4,8/12/2020,Active,maecenas ut massa quis
+542,Information,AFSOC,12/21/2018,Closed,viverra dapibus nulla suscipit ligula in
+543,Information,Det 6,2/20/2018,Active,nam dui proin leo odio
+544,Personnel,PACAF,10/15/2018,Active,velit eu est congue elementum in
+545,Physical,Det 2,6/1/2021,Closed,habitasse platea dictumst etiam
+546,Cyber,Det 3,9/17/2022,Closed,et tempus semper est quam
+547,Information,Det 2,5/11/2019,Closed,platea dictumst etiam faucibus cursus urna
+548,Information,AMC,1/26/2022,Active,in purus eu magna
+549,Personnel,Det 11,1/22/2021,Closed,maecenas tincidunt lacus at velit vivamus
+550,Information,Det 9,3/5/2019,Active,interdum mauris non ligula pellentesque
+551,Cyber,PACAF,12/10/2019,Closed,sollicitudin ut suscipit a feugiat
+552,Information,Det 11,1/9/2018,Closed,sit amet consectetuer adipiscing
+553,Physical,Det 7,2/25/2020,Closed,justo morbi ut odio cras
+554,Physical,AFMC,10/9/2019,Closed,duis ac nibh fusce lacus purus
+555,Information,AFMC,6/28/2022,Closed,ac tellus semper interdum mauris ullamcorper
+556,Information,Det 7,4/2/2020,Closed,proin leo odio porttitor id
+557,Cyber,AFMC,4/8/2019,Closed,morbi non lectus aliquam sit amet
+558,Information,Det 9,3/28/2020,Active,est phasellus sit amet erat nulla
+559,Information,AFGSC,1/19/2023,Closed,dui vel nisl duis ac
+560,Personnel,Det 11,8/9/2019,Closed,vestibulum ac est lacinia
+561,Physical,Det 8,11/6/2018,Closed,eu est congue elementum
+562,Information,USAFE,6/17/2022,Closed,lectus pellentesque eget nunc donec quis
+563,Information,Det 5,9/9/2019,Closed,in congue etiam justo etiam
+564,Cyber,AFSOC,9/8/2019,Closed,ultrices posuere cubilia curae donec pharetra
+565,Information,PACAF,12/25/2022,Closed,massa donec dapibus duis
+566,Personnel,Det 1,1/29/2021,Closed,ultrices posuere cubilia curae donec pharetra
+567,Information,Det 1,5/13/2021,Active,erat nulla tempus vivamus
+568,Personnel,AFMC,8/10/2022,Active,ridiculus mus etiam vel augue
+569,Physical,AFSPC,6/18/2019,Closed,lobortis vel dapibus at diam nam
+570,Physical,AFSPC,12/24/2022,Active,aliquet pulvinar sed nisl nunc
+571,Physical,Det 3,2/9/2022,Closed,ut at dolor quis odio consequat
+572,Personnel,AFSOC,9/26/2018,Closed,ac tellus semper interdum mauris ullamcorper
+573,Information,Det 6,1/10/2022,Active,ultrices posuere cubilia curae nulla dapibus
+574,Physical,AFGSC,6/22/2022,Closed,nisi eu orci mauris lacinia sapien
+575,Cyber,AFSOC,5/25/2018,Closed,lacinia aenean sit amet justo
+576,Cyber,Det 2,7/15/2018,Active,nunc commodo placerat praesent
+577,Physical,Det 11,4/11/2018,Active,cum sociis natoque penatibus et
+578,Personnel,Det 11,12/14/2019,Closed,adipiscing molestie hendrerit at vulputate vitae
+579,Cyber,ACC,8/29/2020,Closed,libero nullam sit amet turpis elementum
+580,Information,AFMC,5/25/2022,Closed,massa quis augue luctus
+581,Personnel,Det 8,9/12/2022,Closed,vestibulum quam sapien varius ut
+582,Information,Det 6,5/18/2020,Active,integer tincidunt ante vel ipsum praesent
+583,Personnel,AFGSC,5/19/2022,Active,maecenas rhoncus aliquam lacus morbi
+584,Cyber,AFMC,9/13/2019,Closed,arcu sed augue aliquam erat
+585,Personnel,PACAF,7/4/2020,Closed,dictumst aliquam augue quam sollicitudin vitae
+586,Cyber,Det 5,6/26/2021,Active,pellentesque eget nunc donec quis
+587,Physical,Det 9,6/24/2020,Active,ac tellus semper interdum mauris
+588,Information,USAFE,10/23/2022,Closed,maecenas rhoncus aliquam lacus morbi
+589,Information,Det 11,4/21/2018,Closed,aenean fermentum donec ut mauris
+590,Cyber,Det 3,2/6/2023,Closed,eget rutrum at lorem integer tincidunt
+591,Information,AFSOC,4/11/2021,Closed,vitae consectetuer eget rutrum at
+592,Personnel,ACC,3/27/2022,Closed,venenatis lacinia aenean sit amet justo
+593,Cyber,AFSOC,3/25/2021,Closed,maecenas tristique est et tempus semper
+594,Physical,AFSOC,6/11/2021,Closed,mi sit amet lobortis sapien
+595,Cyber,AMC,3/31/2018,Active,porttitor lacus at turpis
+596,Personnel,Det 5,4/23/2020,Closed,condimentum neque sapien placerat
+597,Cyber,Det 1,12/13/2019,Closed,morbi vestibulum velit id pretium iaculis
+598,Cyber,Det 8,11/1/2020,Closed,cursus urna ut tellus
+599,Cyber,Det 3,4/2/2020,Closed,volutpat convallis morbi odio odio
+600,Cyber,Det 7,10/28/2018,Closed,diam in magna bibendum imperdiet nullam
+601,Physical,Det 11,1/2/2020,Active,morbi quis tortor id nulla ultrices
+602,Physical,Det 6,7/30/2021,Closed,pede posuere nonummy integer
+603,Cyber,Det 11,9/14/2018,Active,ultrices erat tortor sollicitudin mi
+604,Physical,PACAF,6/3/2022,Active,ultrices erat tortor sollicitudin mi
+605,Information,Det 3,3/12/2020,Active,cubilia curae duis faucibus accumsan
+606,Information,AFMC,10/2/2018,Active,nibh quisque id justo sit amet
+607,Information,Det 6,2/15/2018,Closed,ac nibh fusce lacus
+608,Personnel,ACC,5/26/2019,Active,dis parturient montes nascetur
+609,Personnel,Det 2,4/29/2019,Active,ut odio cras mi pede malesuada
+610,Physical,Det 3,1/17/2021,Active,mi pede malesuada in
+611,Cyber,ACC,8/15/2021,Active,praesent id massa id nisl
+612,Personnel,PACAF,2/1/2020,Closed,dignissim vestibulum vestibulum ante
+613,Physical,AFSOC,4/7/2021,Active,ut massa quis augue luctus
+614,Physical,Det 5,8/6/2022,Active,metus arcu adipiscing molestie hendrerit
+615,Cyber,AFSOC,6/29/2019,Active,tempor convallis nulla neque libero
+616,Personnel,Det 11,2/16/2023,Active,iaculis diam erat fermentum
+617,Cyber,Det 11,11/8/2022,Active,lorem ipsum dolor sit
+618,Personnel,Det 4,5/6/2021,Active,nulla neque libero convallis eget eleifend
+619,Physical,PACAF,4/3/2022,Closed,nec sem duis aliquam convallis
+620,Personnel,AFGSC,11/2/2022,Closed,donec posuere metus vitae ipsum
+621,Personnel,Det 2,5/31/2021,Closed,risus auctor sed tristique in tempus
+622,Physical,AFGSC,11/13/2019,Closed,vestibulum sed magna at
+623,Physical,Det 9,11/14/2021,Active,nec dui luctus rutrum nulla tellus
+624,Information,Det 5,2/15/2020,Closed,montes nascetur ridiculus mus vivamus vestibulum
+625,Personnel,USAFE,12/7/2022,Closed,semper rutrum nulla nunc
+626,Personnel,Det 4,10/30/2018,Closed,libero nullam sit amet turpis elementum
+627,Personnel,ACC,11/25/2022,Active,tellus semper interdum mauris ullamcorper
+628,Physical,ACC,11/24/2020,Closed,nulla sed vel enim sit
+629,Information,Det 9,5/29/2018,Closed,augue vestibulum rutrum rutrum neque aenean
+630,Information,AFMC,3/18/2019,Active,pede ac diam cras pellentesque volutpat
+631,Physical,Det 4,7/28/2022,Active,vestibulum proin eu mi nulla ac
+632,Cyber,AFSPC,2/28/2023,Closed,congue etiam justo etiam pretium
+633,Personnel,Det 1,6/27/2021,Active,nulla ultrices aliquet maecenas leo
+634,Cyber,Det 2,6/30/2019,Closed,massa quis augue luctus tincidunt nulla
+635,Personnel,ACC,6/2/2020,Closed,parturient montes nascetur ridiculus mus
+636,Personnel,Det 2,11/27/2022,Active,at turpis donec posuere metus vitae
+637,Cyber,Det 7,2/7/2022,Closed,nunc rhoncus dui vel
+638,Personnel,AFGSC,10/28/2022,Active,in imperdiet et commodo vulputate justo
+639,Information,Det 6,7/3/2020,Active,eget tempus vel pede
+640,Personnel,AFSPC,10/14/2020,Closed,est lacinia nisi venenatis
+641,Information,Det 6,4/15/2020,Active,sapien cum sociis natoque penatibus et
+642,Personnel,PACAF,1/24/2021,Active,ligula vehicula consequat morbi a ipsum
+643,Personnel,ACC,3/18/2020,Closed,non sodales sed tincidunt eu felis
+644,Information,Det 6,7/15/2020,Closed,semper porta volutpat quam
+645,Information,Det 5,1/26/2019,Closed,suscipit nulla elit ac nulla sed
+646,Personnel,Det 4,2/7/2020,Active,volutpat eleifend donec ut dolor
+647,Personnel,USAFE,5/29/2022,Closed,viverra eget congue eget
+648,Cyber,Det 2,9/18/2018,Closed,maecenas tincidunt lacus at velit
+649,Cyber,Det 4,7/14/2022,Closed,sed justo pellentesque viverra
+650,Physical,AMC,11/16/2018,Active,posuere cubilia curae mauris
+651,Information,ACC,5/19/2018,Active,ultrices aliquet maecenas leo odio condimentum
+652,Information,AFGSC,11/26/2022,Closed,fusce posuere felis sed lacus morbi
+653,Personnel,Det 9,10/19/2022,Closed,duis consequat dui nec nisi
+654,Cyber,Det 2,8/30/2019,Closed,etiam faucibus cursus urna ut
+655,Physical,Det 7,1/13/2019,Active,ligula vehicula consequat morbi a
+656,Personnel,Det 5,11/27/2021,Closed,sapien a libero nam dui proin
+657,Information,Det 6,4/11/2018,Closed,amet nulla quisque arcu libero rutrum
+658,Information,Det 7,9/30/2021,Closed,et eros vestibulum ac est lacinia
+659,Personnel,Det 6,5/21/2018,Active,varius integer ac leo pellentesque
+660,Cyber,Det 5,4/14/2021,Active,ipsum primis in faucibus
+661,Information,Det 11,11/12/2019,Closed,sit amet turpis elementum ligula vehicula
+662,Personnel,Det 5,10/3/2020,Closed,est congue elementum in
+663,Physical,Det 2,3/18/2019,Closed,lacus curabitur at ipsum ac tellus
+664,Physical,ACC,7/3/2019,Active,pretium iaculis justo in hac habitasse
+665,Cyber,Det 9,11/10/2022,Closed,in felis eu sapien cursus
+666,Cyber,Det 4,1/19/2018,Active,luctus tincidunt nulla mollis
+667,Personnel,AFGSC,6/7/2022,Active,imperdiet nullam orci pede
+668,Personnel,Det 1,12/21/2019,Active,a ipsum integer a nibh in
+669,Physical,AFMC,7/9/2022,Active,potenti cras in purus eu magna
+670,Physical,ACC,5/25/2018,Active,scelerisque mauris sit amet eros suspendisse
+671,Cyber,PACAF,12/17/2019,Closed,velit id pretium iaculis
+672,Physical,AFSOC,8/12/2019,Active,praesent blandit lacinia erat vestibulum
+673,Physical,USAFE,9/23/2019,Active,dolor vel est donec
+674,Cyber,Det 5,10/3/2018,Closed,sit amet consectetuer adipiscing
+675,Cyber,AFSPC,3/21/2020,Closed,sagittis nam congue risus
+676,Personnel,Det 5,9/2/2021,Closed,eleifend quam a odio
+677,Physical,Det 1,4/30/2019,Closed,neque libero convallis eget
+678,Physical,AFMC,10/26/2019,Active,nunc nisl duis bibendum felis sed
+679,Information,Det 5,1/19/2021,Closed,ac tellus semper interdum mauris
+680,Physical,Det 11,4/4/2020,Closed,pede lobortis ligula sit amet
+681,Information,Det 4,1/7/2019,Closed,scelerisque mauris sit amet
+682,Cyber,Det 2,6/19/2021,Closed,morbi non lectus aliquam sit
+683,Information,Det 6,2/12/2020,Active,non mattis pulvinar nulla
+684,Information,AFGSC,10/18/2020,Closed,integer tincidunt ante vel ipsum
+685,Information,AFGSC,1/15/2018,Closed,tincidunt eu felis fusce posuere
+686,Cyber,Det 4,11/26/2022,Closed,cras pellentesque volutpat dui maecenas
+687,Information,Det 8,9/22/2018,Closed,consequat dui nec nisi volutpat
+688,Personnel,Det 8,9/6/2019,Closed,metus arcu adipiscing molestie
+689,Personnel,PACAF,9/5/2019,Closed,aenean fermentum donec ut mauris
+690,Cyber,AFMC,9/8/2022,Active,cras pellentesque volutpat dui maecenas tristique
+691,Cyber,Det 9,10/6/2020,Active,libero nam dui proin leo odio
+692,Personnel,Det 3,4/26/2021,Closed,amet justo morbi ut odio cras
+693,Physical,Det 7,8/7/2019,Closed,vestibulum eget vulputate ut
+694,Personnel,Det 6,12/3/2020,Active,risus auctor sed tristique in tempus
+695,Personnel,AFSOC,5/25/2019,Active,condimentum id luctus nec molestie
+696,Information,ACC,10/28/2019,Closed,metus sapien ut nunc
+697,Personnel,Det 3,1/21/2023,Closed,ipsum primis in faucibus orci
+698,Cyber,PACAF,8/2/2018,Closed,aenean lectus pellentesque eget nunc
+699,Cyber,AFSPC,3/13/2018,Active,in quam fringilla rhoncus mauris enim
+700,Cyber,AFGSC,4/4/2019,Active,sed ante vivamus tortor duis mattis
+701,Cyber,Det 8,2/19/2021,Active,diam nam tristique tortor eu pede
+702,Physical,Det 3,3/30/2019,Active,purus phasellus in felis donec
+703,Information,AFSOC,1/21/2022,Closed,vestibulum sed magna at
+704,Information,ACC,11/11/2022,Active,posuere cubilia curae donec pharetra magna
+705,Physical,Det 7,2/8/2023,Active,accumsan tortor quis turpis sed
+706,Information,AFSOC,1/19/2023,Active,luctus tincidunt nulla mollis
+707,Cyber,PACAF,7/15/2021,Closed,lectus aliquam sit amet diam in
+708,Personnel,AFSOC,7/31/2020,Closed,vel sem sed sagittis nam congue
+709,Cyber,PACAF,10/14/2020,Active,vel accumsan tellus nisi
+710,Information,Det 6,2/25/2020,Closed,sit amet consectetuer adipiscing
+711,Information,Det 9,8/3/2019,Closed,penatibus et magnis dis parturient montes
+712,Information,AFSOC,6/14/2020,Active,proin at turpis a pede
+713,Cyber,ACC,5/24/2019,Closed,nullam sit amet turpis elementum
+714,Information,Det 2,11/6/2020,Closed,pede posuere nonummy integer non velit
+715,Cyber,Det 7,10/14/2021,Active,nisl duis ac nibh fusce lacus
+716,Personnel,USAFE,8/14/2021,Closed,viverra pede ac diam cras pellentesque
+717,Information,Det 8,10/8/2019,Active,donec dapibus duis at velit eu
+718,Physical,USAFE,8/1/2020,Closed,sollicitudin vitae consectetuer eget rutrum
+719,Personnel,Det 5,3/18/2021,Closed,in lacus curabitur at
+720,Personnel,AFSPC,11/29/2020,Closed,aliquam quis turpis eget elit
+721,Information,AMC,12/5/2022,Active,vulputate justo in blandit
+722,Information,Det 9,2/19/2021,Closed,in porttitor pede justo eu massa
+723,Information,AFSPC,8/19/2022,Closed,ante nulla justo aliquam quis
+724,Personnel,PACAF,3/22/2019,Closed,convallis eget eleifend luctus ultricies eu
+725,Personnel,Det 1,6/9/2019,Closed,molestie nibh in lectus
+726,Cyber,Det 4,3/8/2021,Closed,nibh fusce lacus purus aliquet
+727,Physical,Det 3,11/17/2020,Active,donec diam neque vestibulum eget
+728,Physical,AMC,1/4/2023,Closed,consequat lectus in est risus
+729,Cyber,ACC,3/3/2021,Active,lectus suspendisse potenti in
+730,Information,AMC,8/29/2020,Closed,pede morbi porttitor lorem id
+731,Physical,AMC,3/8/2019,Active,nunc purus phasellus in felis
+732,Cyber,USAFE,9/7/2021,Closed,justo sollicitudin ut suscipit a
+733,Information,AFSOC,2/3/2022,Closed,nisl duis ac nibh fusce lacus
+734,Information,AFSOC,12/15/2021,Closed,sit amet nulla quisque arcu libero
+735,Information,Det 1,1/15/2021,Closed,ipsum primis in faucibus orci luctus
+736,Personnel,USAFE,6/23/2022,Active,consectetuer adipiscing elit proin interdum
+737,Personnel,Det 5,3/7/2020,Closed,vulputate vitae nisl aenean
+738,Physical,Det 5,8/23/2021,Closed,potenti nullam porttitor lacus
+739,Personnel,Det 1,3/4/2020,Active,sociis natoque penatibus et
+740,Information,Det 4,4/6/2019,Closed,libero rutrum ac lobortis vel dapibus
+741,Physical,AMC,7/17/2018,Active,tincidunt nulla mollis molestie lorem quisque
+742,Personnel,AFSPC,12/30/2020,Active,sed tristique in tempus
+743,Physical,ACC,11/4/2019,Closed,eget vulputate ut ultrices vel
+744,Cyber,Det 4,3/24/2020,Closed,rutrum at lorem integer tincidunt ante
+745,Personnel,Det 11,11/27/2020,Closed,in leo maecenas pulvinar lobortis
+746,Cyber,Det 8,6/24/2020,Active,in lacus curabitur at ipsum ac
+747,Personnel,AFSPC,2/12/2019,Closed,phasellus in felis donec semper
+748,Information,AFGSC,3/21/2018,Active,pede morbi porttitor lorem
+749,Physical,AMC,7/29/2018,Closed,vulputate nonummy maecenas tincidunt
+750,Information,Det 9,1/16/2018,Closed,posuere cubilia curae nulla dapibus dolor
+751,Information,Det 11,4/26/2019,Active,sapien quis libero nullam
+752,Information,AFGSC,3/21/2019,Active,sapien placerat ante nulla
+753,Information,Det 1,10/14/2022,Active,augue luctus tincidunt nulla mollis
+754,Information,ACC,6/9/2021,Active,orci luctus et ultrices posuere
+755,Personnel,AFSOC,5/31/2020,Active,a libero nam dui proin leo
+756,Information,AFMC,10/24/2020,Active,in purus eu magna vulputate
+757,Information,Det 9,8/5/2022,Active,feugiat et eros vestibulum
+758,Personnel,Det 3,12/11/2019,Active,parturient montes nascetur ridiculus mus
+759,Information,Det 9,9/27/2022,Active,eget eros elementum pellentesque
+760,Information,PACAF,2/2/2021,Active,praesent lectus vestibulum quam sapien varius
+761,Physical,Det 7,7/7/2018,Active,non mattis pulvinar nulla
+762,Information,Det 9,6/30/2018,Closed,felis ut at dolor
+763,Physical,AFMC,10/2/2020,Closed,convallis eget eleifend luctus ultricies eu
+764,Physical,ACC,11/26/2019,Closed,amet consectetuer adipiscing elit proin interdum
+765,Physical,Det 1,12/22/2018,Active,ipsum primis in faucibus
+766,Information,Det 3,11/22/2022,Active,turpis sed ante vivamus tortor
+767,Information,AFMC,1/14/2020,Closed,natoque penatibus et magnis dis
+768,Physical,AFSPC,5/21/2020,Active,nascetur ridiculus mus etiam
+769,Cyber,ACC,10/14/2022,Active,eget vulputate ut ultrices vel
+770,Cyber,Det 11,8/19/2018,Closed,pellentesque eget nunc donec quis orci
+771,Physical,AFSPC,10/10/2018,Active,rutrum neque aenean auctor gravida sem
+772,Physical,Det 6,10/19/2018,Closed,sit amet nulla quisque arcu libero
+773,Physical,Det 7,10/28/2022,Closed,semper sapien a libero nam
+774,Physical,AFGSC,9/20/2022,Closed,porta volutpat erat quisque erat
+775,Cyber,ACC,6/12/2018,Active,lacus curabitur at ipsum
+776,Physical,Det 3,5/12/2020,Closed,ligula nec sem duis aliquam
+777,Information,Det 2,3/30/2018,Closed,nisi volutpat eleifend donec ut dolor
+778,Cyber,USAFE,2/13/2022,Active,ante vivamus tortor duis
+779,Cyber,Det 6,5/21/2018,Closed,convallis tortor risus dapibus augue vel
+780,Personnel,AFSOC,2/7/2018,Closed,cubilia curae donec pharetra magna
+781,Information,Det 5,9/24/2021,Closed,nunc proin at turpis
+782,Personnel,AFGSC,10/11/2022,Closed,quis lectus suspendisse potenti in eleifend
+783,Personnel,AFSPC,7/2/2022,Active,fusce congue diam id
+784,Physical,AFSOC,12/15/2018,Closed,dui proin leo odio porttitor
+785,Cyber,Det 11,10/14/2018,Closed,lacinia aenean sit amet
+786,Personnel,Det 1,8/25/2021,Closed,rutrum nulla tellus in sagittis dui
+787,Physical,Det 11,3/22/2021,Closed,nulla justo aliquam quis
+788,Cyber,Det 5,7/10/2018,Active,sit amet diam in
+789,Cyber,Det 3,4/9/2020,Closed,laoreet ut rhoncus aliquet pulvinar sed
+790,Information,Det 4,8/11/2019,Closed,dui nec nisi volutpat eleifend donec
+791,Personnel,Det 5,8/19/2019,Closed,erat vestibulum sed magna
+792,Information,Det 9,4/27/2021,Closed,ultrices posuere cubilia curae donec
+793,Physical,ACC,7/12/2020,Closed,quis turpis eget elit sodales scelerisque
+794,Personnel,Det 7,6/7/2019,Active,ornare consequat lectus in est risus
+795,Physical,USAFE,11/26/2021,Active,sapien non mi integer ac neque
+796,Physical,Det 11,8/30/2020,Closed,convallis nulla neque libero convallis eget
+797,Physical,Det 3,11/24/2019,Closed,rhoncus dui vel sem sed
+798,Personnel,Det 11,5/13/2019,Closed,est et tempus semper
+799,Cyber,ACC,12/27/2020,Closed,maecenas pulvinar lobortis est
+800,Cyber,AFMC,5/22/2019,Active,in libero ut massa volutpat convallis
+801,Cyber,AFSPC,2/6/2023,Active,eros elementum pellentesque quisque porta
+802,Personnel,Det 5,4/29/2019,Closed,parturient montes nascetur ridiculus mus etiam
+803,Personnel,AFGSC,1/5/2019,Active,diam nam tristique tortor eu pede
+804,Personnel,ACC,6/8/2020,Active,sed tincidunt eu felis
+805,Physical,Det 11,3/22/2018,Active,rhoncus mauris enim leo rhoncus
+806,Information,PACAF,11/18/2019,Closed,duis at velit eu
+807,Personnel,Det 7,2/1/2019,Active,gravida sem praesent id massa
+808,Information,Det 4,12/26/2018,Active,montes nascetur ridiculus mus
+809,Personnel,AFSPC,9/13/2020,Active,ligula nec sem duis aliquam
+810,Cyber,Det 7,11/8/2021,Closed,semper sapien a libero nam
+811,Personnel,Det 2,9/3/2019,Closed,fringilla rhoncus mauris enim leo
+812,Personnel,AFSPC,3/11/2022,Closed,elementum pellentesque quisque porta volutpat erat
+813,Physical,AFSOC,2/22/2020,Active,viverra dapibus nulla suscipit
+814,Physical,Det 4,1/7/2023,Closed,ut mauris eget massa
+815,Physical,AFMC,2/1/2018,Closed,sit amet consectetuer adipiscing elit proin
+816,Information,Det 8,4/13/2021,Closed,at nibh in hac
+817,Physical,AFSOC,10/8/2019,Closed,imperdiet sapien urna pretium
+818,Personnel,AFGSC,1/22/2018,Active,egestas metus aenean fermentum donec ut
+819,Physical,Det 6,9/23/2019,Closed,erat nulla tempus vivamus in felis
+820,Physical,Det 5,6/16/2020,Closed,nulla ac enim in
+821,Physical,PACAF,1/30/2023,Closed,ipsum primis in faucibus
+822,Cyber,AFGSC,5/10/2019,Active,sed tristique in tempus sit amet
+823,Physical,Det 7,6/24/2022,Closed,aliquet pulvinar sed nisl
+824,Information,AFSOC,2/3/2023,Active,posuere cubilia curae duis
+825,Information,Det 2,9/22/2019,Active,vestibulum ante ipsum primis in faucibus
+826,Cyber,Det 8,11/26/2018,Active,ut at dolor quis odio
+827,Information,Det 3,10/19/2022,Closed,convallis nulla neque libero convallis eget
+828,Personnel,AFGSC,4/26/2021,Active,leo odio condimentum id luctus
+829,Physical,USAFE,2/1/2023,Closed,vitae consectetuer eget rutrum
+830,Physical,Det 5,10/7/2022,Active,morbi sem mauris laoreet
+831,Personnel,PACAF,7/3/2018,Active,velit donec diam neque vestibulum eget
+832,Personnel,Det 8,10/12/2022,Closed,risus dapibus augue vel accumsan tellus
+833,Personnel,Det 7,6/12/2021,Closed,nulla justo aliquam quis
+834,Information,Det 2,1/15/2023,Closed,in ante vestibulum ante
+835,Physical,AFSPC,3/17/2020,Active,mauris morbi non lectus aliquam
+836,Cyber,USAFE,2/20/2023,Closed,diam vitae quam suspendisse potenti
+837,Personnel,PACAF,4/28/2019,Closed,id pretium iaculis diam erat
+838,Physical,AFSPC,12/31/2021,Closed,magna bibendum imperdiet nullam orci
+839,Personnel,Det 11,1/21/2018,Active,sapien cum sociis natoque penatibus
+840,Information,AMC,5/5/2022,Closed,turpis nec euismod scelerisque
+841,Personnel,PACAF,4/16/2020,Active,nullam porttitor lacus at turpis
+842,Personnel,Det 7,5/26/2018,Active,tincidunt nulla mollis molestie lorem
+843,Physical,Det 2,11/14/2018,Active,ac leo pellentesque ultrices
+844,Information,Det 7,7/8/2021,Closed,tincidunt in leo maecenas pulvinar
+845,Information,AFMC,3/5/2022,Closed,morbi vestibulum velit id pretium iaculis
+846,Personnel,AFSPC,2/18/2019,Active,nisl duis ac nibh fusce lacus
+847,Information,Det 7,3/5/2020,Closed,vestibulum ante ipsum primis in
+848,Personnel,Det 6,8/19/2018,Closed,id luctus nec molestie sed
+849,Information,AFMC,5/9/2018,Closed,arcu adipiscing molestie hendrerit at vulputate
+850,Personnel,AFSPC,11/15/2019,Active,nullam porttitor lacus at turpis
+851,Physical,ACC,11/10/2018,Closed,quam turpis adipiscing lorem vitae
+852,Physical,Det 8,8/13/2019,Active,dis parturient montes nascetur ridiculus
+853,Personnel,AFSPC,4/7/2019,Active,dictumst morbi vestibulum velit
+854,Physical,AFSPC,1/1/2021,Active,donec pharetra magna vestibulum aliquet
+855,Personnel,Det 2,10/25/2019,Closed,congue diam id ornare
+856,Personnel,Det 2,6/10/2020,Active,morbi odio odio elementum
+857,Information,AFGSC,6/30/2021,Closed,porta volutpat erat quisque
+858,Physical,Det 6,7/19/2020,Closed,quam sollicitudin vitae consectetuer
+859,Cyber,Det 11,5/9/2019,Active,et tempus semper est
+860,Personnel,Det 7,6/18/2019,Closed,ligula vehicula consequat morbi a ipsum
+861,Information,Det 11,2/18/2022,Closed,vel nulla eget eros elementum
+862,Personnel,Det 8,12/27/2022,Closed,eget eros elementum pellentesque quisque
+863,Personnel,AFGSC,4/30/2020,Active,tincidunt ante vel ipsum praesent
+864,Information,Det 4,10/22/2021,Closed,dapibus duis at velit eu
+865,Cyber,Det 4,2/11/2020,Closed,fringilla rhoncus mauris enim leo rhoncus
+866,Cyber,Det 9,7/3/2021,Active,eleifend pede libero quis orci nullam
+867,Information,AFGSC,12/22/2020,Active,amet erat nulla tempus
+868,Cyber,AFSPC,1/13/2022,Active,ornare imperdiet sapien urna pretium
+869,Physical,Det 6,2/3/2021,Active,ut massa quis augue
+870,Information,Det 8,1/15/2018,Active,aliquam augue quam sollicitudin vitae consectetuer
+871,Physical,Det 5,1/18/2018,Closed,vel accumsan tellus nisi
+872,Cyber,Det 9,6/18/2018,Closed,at nibh in hac habitasse platea
+873,Physical,Det 7,12/9/2020,Closed,molestie lorem quisque ut
+874,Physical,Det 4,5/16/2020,Active,viverra pede ac diam cras pellentesque
+875,Personnel,Det 2,10/20/2021,Closed,nulla tempus vivamus in felis
+876,Personnel,AFGSC,4/16/2022,Closed,risus auctor sed tristique in
+877,Physical,Det 9,3/25/2018,Active,egestas metus aenean fermentum
+878,Cyber,Det 4,9/4/2022,Active,at ipsum ac tellus semper
+879,Information,USAFE,1/21/2018,Closed,pede ac diam cras pellentesque
+880,Physical,ACC,3/1/2022,Active,primis in faucibus orci luctus
+881,Cyber,USAFE,3/16/2020,Closed,nec dui luctus rutrum
+882,Personnel,Det 3,12/21/2019,Closed,integer a nibh in quis
+883,Cyber,Det 9,11/29/2020,Active,ipsum ac tellus semper interdum
+884,Personnel,AFSPC,10/20/2021,Closed,sed ante vivamus tortor duis mattis
+885,Personnel,AFMC,3/25/2020,Closed,integer tincidunt ante vel
+886,Physical,Det 5,2/16/2021,Active,in felis donec semper sapien
+887,Cyber,Det 6,3/1/2021,Closed,adipiscing elit proin risus praesent lectus
+888,Physical,ACC,5/12/2022,Active,natoque penatibus et magnis
+889,Personnel,AFSOC,10/2/2018,Active,interdum venenatis turpis enim blandit mi
+890,Cyber,Det 7,1/13/2021,Closed,et eros vestibulum ac
+891,Personnel,Det 8,9/22/2022,Active,proin at turpis a
+892,Physical,Det 5,3/31/2021,Active,nulla quisque arcu libero rutrum ac
+893,Information,Det 1,1/27/2021,Active,massa tempor convallis nulla neque libero
+894,Cyber,Det 6,7/31/2018,Active,sit amet eros suspendisse
+895,Information,Det 11,12/26/2020,Active,neque aenean auctor gravida sem
+896,Physical,ACC,6/2/2020,Closed,luctus ultricies eu nibh quisque
+897,Personnel,AFGSC,7/6/2020,Active,curae donec pharetra magna vestibulum aliquet
+898,Cyber,USAFE,8/12/2020,Active,semper est quam pharetra
+899,Personnel,AFGSC,7/6/2022,Closed,venenatis lacinia aenean sit
+900,Personnel,AMC,6/24/2020,Closed,amet sapien dignissim vestibulum
+901,Personnel,Det 11,10/12/2020,Active,a feugiat et eros vestibulum ac
+902,Cyber,Det 5,1/15/2022,Active,ut massa volutpat convallis morbi odio
+903,Personnel,AFMC,4/11/2022,Active,nisl venenatis lacinia aenean sit
+904,Physical,Det 4,1/13/2023,Closed,condimentum id luctus nec molestie sed
+905,Information,Det 11,11/14/2018,Active,purus eu magna vulputate luctus
+906,Physical,AFGSC,12/6/2020,Closed,quis odio consequat varius integer
+907,Personnel,Det 3,2/25/2018,Active,odio justo sollicitudin ut suscipit a
+908,Information,AFSOC,9/12/2021,Active,erat volutpat in congue
+909,Information,AFMC,11/20/2021,Active,primis in faucibus orci luctus
+910,Information,AFGSC,5/5/2022,Active,porta volutpat erat quisque erat
+911,Physical,AFGSC,7/23/2018,Closed,in purus eu magna
+912,Physical,Det 5,1/25/2018,Active,dis parturient montes nascetur ridiculus
+913,Physical,Det 1,12/10/2021,Active,augue vestibulum ante ipsum primis in
+914,Information,Det 4,1/22/2019,Closed,rutrum ac lobortis vel dapibus
+915,Information,Det 4,5/22/2019,Closed,curae nulla dapibus dolor
+916,Physical,Det 6,8/25/2018,Closed,non interdum in ante
+917,Cyber,AFSOC,12/12/2018,Active,ultrices posuere cubilia curae mauris
+918,Personnel,Det 4,8/9/2020,Closed,pellentesque quisque porta volutpat
+919,Personnel,AFGSC,10/30/2018,Active,ligula vehicula consequat morbi a ipsum
+920,Information,PACAF,5/4/2021,Active,at velit vivamus vel
+921,Physical,AMC,8/30/2020,Active,a odio in hac
+922,Cyber,Det 6,2/9/2022,Closed,purus phasellus in felis donec semper
+923,Personnel,PACAF,9/19/2021,Closed,tristique fusce congue diam id ornare
+924,Personnel,Det 2,6/22/2021,Active,et eros vestibulum ac est
+925,Information,Det 7,4/4/2021,Closed,tincidunt eget tempus vel
+926,Cyber,Det 9,6/5/2022,Closed,quisque erat eros viverra eget congue
+927,Physical,PACAF,6/24/2022,Closed,vulputate ut ultrices vel augue vestibulum
+928,Physical,Det 5,2/5/2021,Closed,pede lobortis ligula sit
+929,Cyber,AFSPC,6/17/2022,Active,donec posuere metus vitae
+930,Cyber,Det 5,1/18/2022,Active,maecenas tincidunt lacus at
+931,Physical,PACAF,4/22/2018,Closed,in hac habitasse platea dictumst maecenas
+932,Personnel,AFSPC,11/12/2022,Active,et ultrices posuere cubilia curae
+933,Personnel,Det 3,12/26/2021,Active,tellus semper interdum mauris ullamcorper
+934,Physical,Det 1,10/18/2019,Active,turpis elementum ligula vehicula consequat morbi
+935,Personnel,Det 1,11/10/2018,Closed,mi integer ac neque duis bibendum
+936,Physical,Det 11,12/23/2021,Active,magna bibendum imperdiet nullam orci
+937,Information,Det 4,3/18/2019,Closed,vestibulum vestibulum ante ipsum primis
+938,Cyber,AFSPC,11/28/2018,Closed,amet sapien dignissim vestibulum
+939,Cyber,Det 1,4/30/2022,Active,ipsum ac tellus semper interdum mauris
+940,Personnel,AFSOC,8/28/2022,Closed,sed justo pellentesque viverra pede
+941,Cyber,Det 9,10/3/2020,Closed,mauris ullamcorper purus sit
+942,Information,ACC,6/30/2020,Closed,adipiscing molestie hendrerit at
+943,Physical,USAFE,10/17/2020,Active,vel ipsum praesent blandit lacinia
+944,Physical,AFMC,1/30/2023,Active,fermentum justo nec condimentum neque sapien
+945,Cyber,AFGSC,6/8/2018,Active,luctus ultricies eu nibh quisque
+946,Information,USAFE,6/20/2019,Closed,mauris non ligula pellentesque ultrices phasellus
+947,Personnel,USAFE,7/24/2019,Active,justo sit amet sapien dignissim vestibulum
+948,Information,Det 6,1/24/2021,Active,dignissim vestibulum vestibulum ante
+949,Cyber,Det 6,2/11/2021,Closed,non lectus aliquam sit amet
+950,Information,AMC,11/24/2022,Closed,nisi eu orci mauris
+951,Cyber,PACAF,9/4/2021,Closed,varius integer ac leo pellentesque
+952,Personnel,Det 9,2/8/2019,Active,id mauris vulputate elementum
+953,Personnel,Det 2,11/20/2021,Closed,magnis dis parturient montes
+954,Cyber,AMC,5/20/2020,Closed,praesent blandit nam nulla integer pede
+955,Physical,Det 3,3/9/2021,Closed,suscipit a feugiat et eros
+956,Information,Det 4,5/12/2022,Closed,pretium nisl ut volutpat sapien arcu
+957,Cyber,AMC,3/30/2018,Closed,convallis nulla neque libero
+958,Cyber,Det 6,2/17/2020,Active,pulvinar lobortis est phasellus
+959,Physical,Det 2,5/18/2020,Active,erat id mauris vulputate elementum nullam
+960,Physical,Det 9,12/13/2020,Closed,ac nulla sed vel enim sit
+961,Cyber,Det 4,3/10/2020,Closed,posuere cubilia curae mauris
+962,Personnel,Det 7,11/23/2020,Active,nulla ultrices aliquet maecenas leo odio
+963,Physical,AFSPC,4/5/2019,Closed,amet eleifend pede libero quis orci
+964,Cyber,Det 9,5/5/2021,Active,at nibh in hac
+965,Cyber,AFMC,8/5/2021,Active,purus eu magna vulputate luctus
+966,Cyber,USAFE,7/3/2018,Active,felis fusce posuere felis sed lacus
+967,Information,AFMC,9/26/2020,Closed,ornare imperdiet sapien urna pretium nisl
+968,Personnel,AFSPC,7/9/2021,Active,duis faucibus accumsan odio
+969,Cyber,Det 3,8/2/2021,Closed,lacus purus aliquet at feugiat
+970,Physical,PACAF,8/8/2021,Active,felis ut at dolor quis
+971,Physical,Det 1,4/27/2018,Closed,pellentesque ultrices phasellus id sapien in
+972,Information,AFSPC,10/19/2018,Closed,turpis elementum ligula vehicula
+973,Cyber,Det 1,1/20/2021,Active,lectus aliquam sit amet diam in
+974,Cyber,Det 6,4/7/2018,Closed,ullamcorper purus sit amet nulla quisque
+975,Cyber,AFGSC,5/14/2018,Active,in hac habitasse platea
+976,Information,PACAF,1/5/2020,Closed,vitae mattis nibh ligula nec sem
+977,Information,AMC,9/11/2018,Closed,mollis molestie lorem quisque ut erat
+978,Personnel,Det 4,12/20/2019,Active,rutrum neque aenean auctor gravida sem
+979,Information,ACC,11/20/2021,Active,luctus cum sociis natoque penatibus et
+980,Personnel,Det 2,8/14/2018,Active,sodales sed tincidunt eu felis
+981,Personnel,Det 4,10/2/2021,Closed,et commodo vulputate justo
+982,Physical,Det 5,2/10/2023,Active,suscipit a feugiat et eros
+983,Information,Det 11,8/9/2020,Closed,lectus aliquam sit amet diam in
+984,Personnel,AFMC,8/31/2020,Active,duis bibendum felis sed
+985,Personnel,Det 11,9/16/2018,Active,pede lobortis ligula sit
+986,Information,USAFE,11/10/2019,Closed,tincidunt eu felis fusce posuere felis
+987,Personnel,Det 6,9/28/2020,Active,in faucibus orci luctus et
+988,Physical,Det 2,12/22/2018,Closed,praesent blandit nam nulla integer pede
+989,Cyber,Det 8,10/25/2019,Active,vel nulla eget eros
+990,Cyber,Det 8,5/10/2018,Active,pretium iaculis diam erat fermentum justo
+991,Physical,PACAF,4/18/2018,Closed,feugiat et eros vestibulum ac est
+992,Cyber,AFSOC,9/30/2018,Closed,ultrices posuere cubilia curae mauris
+993,Information,Det 9,1/6/2019,Active,in blandit ultrices enim lorem
+994,Physical,Det 5,9/23/2018,Active,in imperdiet et commodo vulputate
+995,Personnel,Det 5,2/11/2018,Active,aliquam sit amet diam in magna
+996,Cyber,Det 2,8/8/2019,Active,accumsan felis ut at dolor
+997,Cyber,AFMC,10/6/2022,Closed,quam suspendisse potenti nullam porttitor
+998,Personnel,AMC,11/27/2022,Active,pulvinar lobortis est phasellus
+999,Information,AFMC,3/2/2022,Closed,luctus ultricies eu nibh quisque
+1000,Personnel,AMC,10/18/2022,Active,eu magna vulputate luctus cum sociis
